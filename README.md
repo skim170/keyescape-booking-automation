@@ -1,6 +1,6 @@
 # KeyEscape Auto Booker 🎯
 
-This Python script automates the reservation process for the [KeyEscape](https://www.keyescape.co.kr/) escape room using Selenium. It automatically selects the location, date, theme, and time slot, and proceeds to fill out the required booking form.
+This Python script automates the reservation process for the [KeyEscape](https://www.keyescape.com/) escape room using Selenium. It automatically selects the location, date, theme, and time slot, and proceeds to fill out the required booking form.
 
 ## 📌 Features
 
