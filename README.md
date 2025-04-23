@@ -20,7 +20,6 @@ This Python script automates the reservation process for the [KeyEscape](https:/
 
 You can install all required packages using:
 
-```bash
+\`\`\`bash
 pip install selenium webdriver-manager
-
-- 
+\`\`\`
